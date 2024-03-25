@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# MyPy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+.env
+
+# Modelio
+*.bak
+*.log
+*.project
+*.mdl
+*.umk
+*.emf
+*.diag
+*.stat
+*.fmd
+*.pdf

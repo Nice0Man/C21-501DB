@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "c21-501db"
+version = "0.1.0"
+description = ""
+authors = ["Eugene <e.krotov03@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
